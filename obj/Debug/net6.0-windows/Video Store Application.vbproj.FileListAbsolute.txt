@@ -1,0 +1,58 @@
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.MainLogin.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.vbproj.GenerateResource.cache
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.AssemblyInfoInputs.cache
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.AssemblyInfo.vb
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.vbproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\Video Store Application.exe
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\Video Store Application.deps.json
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\Video Store Application.runtimeconfig.json
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\Video Store Application.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\Video Store Application.pdb
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\refint\Video Store Application.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.pdb
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.genruntimeconfig.cache
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\ref\Video Store Application.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.CommonMenuControl.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.CreateEmployee.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.vbproj.AssemblyReference.cache
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video Store Application.vbproj.CopyComplete
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.ChangePassword.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.ListEmployees.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.EditEmployee.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.EditListEmployees.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.DeleteEmployee.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.ListMovies.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.AddMovie.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.EditMovie.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.EditListMovies.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.DeleteListMovies.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.ListClients.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.AddClient.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.EditClient.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.EditListClients.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.DeleteListClients.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.QuickSearch.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.RentMovie.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.ListRentedMovies.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.AdvanceSearch.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.Dashboard.resources
+C:\Users\louis\source\repos\Database Application\Video Store Application\obj\Debug\net6.0-windows\Video_Store_Application.Resources.resources

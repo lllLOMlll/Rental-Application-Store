@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Clients\AddClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients\DeleteListClients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients\ListClients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\CreateEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\DeleteEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\EditListEmployees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\ListEmployees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="File\ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu\CommonMenuControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Movies\AddMovie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movies\DeleteListMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movies\EditListMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movies\EditMovie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movies\ListMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rent\ListRentedMovies.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rent\RentMovie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search\AdvanceSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search\QuickSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

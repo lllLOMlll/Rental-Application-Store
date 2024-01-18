@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Video_Store_Application</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ClassDiagram1.cd" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Clients\EditClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients\DeleteListClients.vb" />
+    <Compile Update="Clients\EditListClients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clients\ListClients.vb" />
+    <Compile Update="Employee\EditEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee\DeleteEmployee.vb" />
+    <Compile Update="Employee\EditListEmployees.vb" />
+    <Compile Update="Movies\DeleteListMovies.vb" />
+    <Compile Update="Movies\EditMovie.vb" />
+    <Compile Update="Movies\EditListMovies.vb" />
+    <Compile Update="Movies\ListMovies.vb" />
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Rent\ListRentedMovies.vb" />
+    <Compile Update="Rent\RentMovie.vb" />
+    <Compile Update="Search\AdvanceSearch.vb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
